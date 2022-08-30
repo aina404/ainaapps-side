@@ -1,0 +1,1 @@
+console.close[Home]
